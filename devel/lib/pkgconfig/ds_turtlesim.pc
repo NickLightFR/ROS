@@ -1,0 +1,8 @@
+prefix=/fs03/share/users/nicolas.clerc/home/ds_clerc_ros_ws/devel
+
+Name: ds_turtlesim
+Description: Description of ds_turtlesim
+Version: 0.0.0
+Cflags: 
+Libs: -L/fs03/share/users/nicolas.clerc/home/ds_clerc_ros_ws/devel/lib 
+Requires: 

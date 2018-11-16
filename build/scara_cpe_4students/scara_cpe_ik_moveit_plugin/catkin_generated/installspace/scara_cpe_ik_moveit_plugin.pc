@@ -1,0 +1,8 @@
+prefix=/fs03/share/users/nicolas.clerc/home/ds_clerc_ros_ws/install
+
+Name: scara_cpe_ik_moveit_plugin
+Description: Description of scara_cpe_ik_moveit_plugin
+Version: 0.0.0
+Cflags: 
+Libs: -L/fs03/share/users/nicolas.clerc/home/ds_clerc_ros_ws/install/lib 
+Requires: moveit_core pluginlib roscpp tf_conversions

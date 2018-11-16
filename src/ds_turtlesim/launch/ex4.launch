@@ -1,0 +1,7 @@
+ <launch>
+
+   <remap from="/clerc/pose" to="turtle1/pose"/>
+     <node pkg="turtlesim" name="ds_turtlenode" type="turtlesim_node"/>
+    <node pkg="ds_turtlesim" name="ds_exo" type="turtle_cmd_mng.py"/>
+   
+</launch>

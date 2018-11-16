@@ -1,0 +1,2 @@
+ds_turtlesim:scara_cpe_4students/ scara_cpe_moveit:scara_cpe_4students/scara_cpe_apps:scara_cpe_4students/scara_cpe_description:scara_cpe_4students/scara_cpe_gazebo:scara_cpe_4students/scara_cpe_ik_moveit_plugin:scara_cpe_4students/scara_cpe_kinematics:scara_cpe_4students/scara_cpe_robot:usb_cam
+-DCATKIN_DEVEL_PREFIX=/fs03/share/users/nicolas.clerc/home/ds_clerc_ros_ws/devel -DCMAKE_INSTALL_PREFIX=/fs03/share/users/nicolas.clerc/home/ds_clerc_ros_ws/install -G Unix Makefiles
